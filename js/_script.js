@@ -6,3 +6,8 @@ Sommiamo i due numeri
 Stabiliamo se la somma dei due numeri è pari o dispari (usando una funzione)
 Dichiariamo chi ha vinto.
 */
+
+// ?1 - Come la chiamo?
+// ?2 - Ho bisogno di parametri? (se si quali?)
+// ?3 - Devo restituire qualcosa? (se si cosa? di che tipo?)
+// ?4 OPZIONALE:  Qualcosa  potrebbe andare storto? (se si, cosa?)
